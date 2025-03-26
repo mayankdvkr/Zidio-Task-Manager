@@ -1,4 +1,4 @@
-# TASK-Management-System ( Demonstration Project )
+# Zidio TASK-Management-System 
 
 ## Demo
 ![DEMO](misc/demo/tms_demo.gif)
